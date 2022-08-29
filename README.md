@@ -16,7 +16,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Benso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 </br>
-🚀<h1>Ferramentas e Tecnologias</h1>🚀
+<h1>🚀Ferramentas e Tecnologias🚀</h1>
 </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
