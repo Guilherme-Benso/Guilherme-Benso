@@ -2,7 +2,7 @@
 🙋‍♂️Sou o Guilherme!🙋‍♂️</br>
 🔥Sejam bem vindos ao meu perfil🔥
 </br></br>
-![WhatsApp Image 2022-08-29 at 01 11 05](https://user-images.githubusercontent.com/101438815/187121669-294f2178-6f4a-4df3-a02b-7ef2668e5747.jpeg)
+![WhatsApp Image 2022-08-29 at 01 11 05](https://user-images.githubusercontent.com/101438815/187121669-294f2178-6f4a-4df3-a02b-7ef2668e5747.jpeg height="400px")
 
 
 ### Contatos:
