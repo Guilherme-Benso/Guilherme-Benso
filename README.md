@@ -1,4 +1,4 @@
-## Olá devs!👋
+<h1> Olá devs!👋</h1>
 🙋‍♂️Sou o Guilherme!🙋‍♂️</br>
 🔥Sejam bem vindos ao meu perfil🔥
 </br></br>
@@ -16,11 +16,21 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Benso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 </br>
-<h1>🚀Ferramentas e Tecnologias🚀</h1>
+<h3>🚀Ferramentas e Tecnologias🚀</h3>
 </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
+          
+          
+          
+          
+          
          
           
