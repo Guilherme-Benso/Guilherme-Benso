@@ -1,6 +1,6 @@
 <h1> Olá devs!👋</h1>
 🙋‍♂️Sou o Guilherme!🙋‍♂️</br>
-🔥Sejam bem vindos ao meu perfil🔥
+🔥Seja bem vindo ao meu perfil🔥
 </br></br>
 
 ### Contatos:
