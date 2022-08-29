@@ -3,7 +3,6 @@
 🔥Sejam bem vindos ao meu perfil🔥
 </br></br>
 
-
 ### Contatos:
 
 <div>
@@ -16,3 +15,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Benso&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Benso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+</br>
+Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
