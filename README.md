@@ -12,7 +12,7 @@
 </br>
 <![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
-/br></br>
+</br></br>
 <div>
 <a href="https://github.com/Guilherme-Benso/">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Benso&layout=compact&langs_count=7&theme=dracula"/>
