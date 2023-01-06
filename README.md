@@ -1,6 +1,7 @@
 <h1> Olá!👋</h1>
-🙋‍♂️Sou o Guilherme!🙋‍♂️</br>
-🔥Seja bem vindo ao meu perfil🔥
+Sou o Guilherme!🙋‍♂️
+</br>
+Seja bem vindo ao meu perfil🔥
 </br></br>
 
 ### Contatos:
