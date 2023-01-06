@@ -1,4 +1,4 @@
-<h1> Olá devs!👋</h1>
+<h1> Olá!👋</h1>
 🙋‍♂️Sou o Guilherme!🙋‍♂️</br>
 🔥Seja bem vindo ao meu perfil🔥
 </br></br>
