@@ -17,7 +17,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Benso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 </br>
-<h3>🔥Ferramentas e Tecnologias🔥</h3>
+##🔥 Ferramentas e Tecnologias 🔥
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -33,7 +33,7 @@
 </br>
 </br>
 
-<h3>🚀Atualmente estudando🚀</h3>
+##🚀 Atualmente estudando 🚀
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
@@ -42,7 +42,7 @@
 </br>
 </br>
 
-<h3>📘 Bibliotecas já utizadas 📘</h3>
+##📘 Bibliotecas já utizadas 📘
 <div> 
 <img src="https://styled-components.com/logo.png" width="40" height="40"/>
 <img src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" width="40" height="40"/>
