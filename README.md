@@ -38,7 +38,9 @@
 <h3>📘 Bibliotecas já utizadas 📘</h3>
 <div> 
 <img src="https://styled-components.com/logo.png" width="40" height="40"/>
-
+<img src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" width="40" height="40"/>
+<img src="https://miro.medium.com/max/2400/1*gvlV5stc45hkSpxD9cCC-g.png" width="40" height="40"/>
+          
 </div>
           
 
