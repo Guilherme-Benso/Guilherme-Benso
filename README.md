@@ -30,11 +30,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
 
 </div>
+
+
+
 <h3>🚀Atualmente estudando🚀</h3>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </div>
+
+
 <h3>📘 Bibliotecas já utizadas 📘</h3>
 <div> 
 <img src="https://styled-components.com/logo.png" width="40" height="40"/>
