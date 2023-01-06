@@ -28,10 +28,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
-
 </div>
 
-
+</br>
+</br>
 
 <h3>🚀Atualmente estudando🚀</h3>
 <div>
@@ -39,16 +39,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </div>
 
+</br>
+</br>
 
 <h3>📘 Bibliotecas já utizadas 📘</h3>
 <div> 
 <img src="https://styled-components.com/logo.png" width="40" height="40"/>
 <img src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" width="40" height="40"/>
-<img src="https://miro.medium.com/max/2400/1*gvlV5stc45hkSpxD9cCC-g.png" width="40" height="40"/>
-          
+<img src="https://miro.medium.com/max/2400/1*gvlV5stc45hkSpxD9cCC-g.png" width="40" height="40"/>        
 </div>
-          
 
+</br>
+</br>          
 
 ![Snake animation](https://github.com/Guilherme-Benso/Guilherme-Benso/blob/output/github-contribution-grid-snake.svg)
           
