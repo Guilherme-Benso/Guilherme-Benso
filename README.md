@@ -46,11 +46,6 @@ Seja bem vindo ao meu perfil 🔥
 
 </br>
 
-</br>
-</br>          
-
-![Snake animation](https://github.com/Guilherme-Benso/Guilherme-Benso/blob/output/github-contribution-grid-snake.svg)
-          
           
           
           
