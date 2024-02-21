@@ -1,10 +1,10 @@
-<h1> Olá!👋</h1>
-Sou o Guilherme 🙋‍♂️
+<h1> Hi!👋</h1>
+I'm Guilherme 🙋‍♂️
 </br>
-Seja bem vindo ao meu perfil 🔥
+Welcome to my profile 🔥
 </br></br>
 
-### Contatos:
+### Contacts:
 
 <div>
 <a href="https://www.instagram.com/guilhermebenso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -19,7 +19,7 @@ Seja bem vindo ao meu perfil 🔥
 </div>
 </br>
 
-##  Ferramentas e Tecnologias 🔥
+##  Tools and Technologies 🔥
 </br>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"width="40" height="40"/> 
@@ -37,7 +37,7 @@ Seja bem vindo ao meu perfil 🔥
 </br>
 </br>
 
-##  Atualmente estudando 🚀
+##  Currently studying 🚀
 </br>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
