@@ -1,76 +1,14 @@
-self.addEventListener('notificationclick', function(event) {
-
-    if (!event.action) {
-
-        event.notification.close();
-        var link = event.notification.data.link;
-        event.waitUntil(
-            clients.openWindow(link)
-        );
-
-    } else {
-
-        let actions = event.notification.data.actions;
-        if(actions.length > 0){
-            for (var i = 0; i < actions.length; i++) {
-                if (event.action == actions[i].action){
-                    event.notification.close();
-                    event.waitUntil(
-                        clients.openWindow(actions[i].link)
-                    );
-                    break;
-                }
-            }
-        }
-
+<!-- Builderall Global Script -->
+<script>
+(function(b, u, i, l, d, e, r) {
+    const config = {
+        bgskey: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiODdjOTM2OWItM2E2Mi00MGI2LWE2NTctNjg0YmQ1ZGYxYzA5In0.2joSxUk1ztdC8dcpsU8c7LOW1JNv7SSmnFNtkPBxVI8",
+        url: encodeURI(u.href)
     }
-});
-
-self.addEventListener('push', function (event) {
-    if (!(self.Notification && self.Notification.permission === 'granted')) {
-        return;
-    }
-
-    const sendNotification = function(info)  {
-
-        let options = {
-            body: info.body,
-            icon: info.icon,
-            requireInteraction: true,
-            data: {
-                link: info.link,
-                actions: []
-            }
-        };
-
-        if(info.image && info.image != ""){
-            options.image = info.image;
-        }
-
-        if(info.actions && info.actions.length > 0){
-            options.actions = [];
-
-            for (var i = 0; i < info.actions.length; i++) {
-                options.actions.push({
-                    action: info.actions[i].action,
-                    title: info.actions[i].title,
-                    icon: info.actions[i].icon
-                });
-                options.data.actions.push({
-                    action: info.actions[i].action,
-                    link: info.actions[i].link
-                });
-            }
-        }
-
-        console.log(info.title);
-        console.log(options);
-
-        return self.registration.showNotification( info.title, options);
-    };
-
-    if (event.data) {
-        const message = event.data.json();
-        event.waitUntil(sendNotification(message));
-    }
-});
+    d = b.createElement(i);
+    e = new URLSearchParams(config).toString()
+    d.src = ${l}/main.js?${e};
+    d.defer = !0;
+    b.head.appendChild(d);
+})(document, location, 'script', 'https://bgs.kub.app.builderall.io')
+</script>
